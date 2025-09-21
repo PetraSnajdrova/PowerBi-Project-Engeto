@@ -1,8 +1,8 @@
 # PowerBI-Project-Engeto
 
 V tomto projektu jsou vizualizované vybrané finanční ukazatele společnosti McDonald´s globálně a dále pak v ČR.
-* Jedná se zejména o výsledek hospodaření (Earnings), poměrové ukazatele akcií (P/E, P/S, P/B).
-* v McDonald´s ČR dále pak sledji vývoj provozování restaurací společností McDonald´s a franšízanty, což doplňuje přehled tržeb v oblasti hostinské činnosti.
+* Jedná se zejména o výsledek hospodaření (Earnings) a poměrové ukazatele akcií (P/E, P/S, P/B).
+* V McDonald´s ČR dále pak sledji vývoj provozování restaurací společností McDonald´s a franšízanty, což doplňuje přehled tržeb v oblasti hostinské činnosti.
 
 ## Obsah
 * `README.md` - obecné údaje.
